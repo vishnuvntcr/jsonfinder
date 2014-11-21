@@ -1,0 +1,3 @@
+module Jsonfinder
+  VERSION = "0.0.1"
+end
